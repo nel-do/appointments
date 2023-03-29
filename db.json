@@ -1,42 +1,39 @@
-[
-  {
-    "date1": "Monday 3rd April",
-    "time1": "10am",
-	"time2": "11am",
-	"time3": "1pm",
-	"time4": "2pm"
-  },
-  
-   {
-    "date2": "Tuesday 4th April",
-    "time1": "10am",
-	"time2": "11am",
-	"time3": "1pm",
-	"time4": "2pm"
-  },
-  
-   {
-    "date3": "Wednesday 5th April",
-    "time1": "10am",
-	"time2": "11am",
-	"time3": "1pm",
-	"time4": "2pm"
-  },
-  
-   {
-    "date4": "Thursday 6th April",
-    "time1": "10am",
-	"time2": "11am",
-	"time3": "1pm",
-	"time4": "2pm"
-  },
-  
-   {
-    "date5": "Friday 6th April",
-    "time1": "10am",
-	"time2": "11am",
-	"time3": "1pm",
-	"time4": "2pm"
-  }
- 
-]
+{
+   "dates":[
+      {
+         "date":"Monday 3rd April",
+         "time1":"10am",
+         "time2":"11am",
+         "time3":"1pm",
+         "time4":"2pm"
+      },
+      {
+         "date":"Tuesday 4th April",
+         "time1":"10am",
+         "time2":"11am",
+         "time3":"1pm",
+         "time4":"2pm"
+      },
+      {
+         "date":"Wednesday 5th April",
+         "time1":"10am",
+         "time2":"11am",
+         "time3":"1pm",
+         "time4":"2pm"
+      },
+      {
+         "date":"Thursday 6th April",
+         "time1":"10am",
+         "time2":"11am",
+         "time3":"1pm",
+         "time4":"2pm"
+      },
+      {
+         "date":"Friday 6th April",
+         "time1":"10am",
+         "time2":"11am",
+         "time3":"1pm",
+         "time4":"2pm"
+      }
+   ]
+}
